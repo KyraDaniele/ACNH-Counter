@@ -1,5 +1,10 @@
 body {
 	margin: 50px;
+	background-image: url(./images/pattern-leaves-white.jpg);
+}
+.timer {
+	border-radius: 25px;
+	background-image: url(./images/pattern-confetti-2x.jpg);
 }
 .info {
 	display: inline-block;
