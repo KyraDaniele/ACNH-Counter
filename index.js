@@ -23,3 +23,5 @@ const x = setInterval(function() {
 }, 1000);
 
 // TODO When the game comes out, switch to count up
+
+// this should not be on master
