@@ -1,10 +1,15 @@
 body {
 	margin: 50px;
 	background-image: url(./images/pattern-leaves-white.jpg);
+	display: flex;
+	justify-content: center;
 }
 .timer {
+	font-size: large;
+	padding: 15px;
 	border-radius: 25px;
 	background-image: url(./images/pattern-confetti-2x.jpg);
+	text-align: center;
 }
 .info {
 	display: inline-block;
