@@ -1,4 +1,4 @@
-const release = new Date("March 20, 2020 10:00:00").getTime();
+const release = new Date("March 20, 2020 08:00:00").getTime();
 const now = new Date().getTime();
 const titleEl = document.getElementById("title");
 const sent1El = document.getElementById("sent1");
